@@ -47,12 +47,8 @@ body {
   width: 250px;
 }
 .options-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: row;
-  padding: 6px;
-  margin: 9px;
+  max-width: fit-content;
+  margin: 0 auto;
 }
 .options-container button {
   margin: 0px 12px;
