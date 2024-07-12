@@ -43,8 +43,8 @@ body {
   flex-direction: column;
   padding: 6px;
   margin: 9px;
-  height: 400px;
-  width: 50%;
+  height: 300px;
+  width: 250px;
 }
 .options-container{
   display: flex;
