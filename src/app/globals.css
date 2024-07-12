@@ -41,12 +41,6 @@ body {
   margin: 40px;
 }
 .three-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  padding: 6px;
-  margin: 9px;
   height: 300px;
   width: 250px;
   margin: 0 auto;
@@ -56,6 +50,5 @@ body {
   margin: 0 auto;
 }
 .options-container button {
-  margin: 0px 12px;
   cursor: pointer;
 }
