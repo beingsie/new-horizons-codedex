@@ -31,13 +31,13 @@ body {
     text-wrap: balance;
   }
 }
-.menu-container{
+.menu-container {
   width: 90%;
   height: 90%;
   margin: 40px;
 }
-.three-container{
-  display:flex;
+.three-container {
+  display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
@@ -46,15 +46,15 @@ body {
   height: 300px;
   width: 250px;
 }
-.options-container{
+.options-container {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction:row;
+  flex-direction: row;
   padding: 6px;
   margin: 9px;
 }
-.options-container button{
+.options-container button {
   margin: 0px 12px;
-  cursor:pointer;
+  cursor: pointer;
 }
