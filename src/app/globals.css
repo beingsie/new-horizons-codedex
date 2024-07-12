@@ -49,6 +49,7 @@ body {
   margin: 9px;
   height: 300px;
   width: 250px;
+  margin: 0 auto;
 }
 .options-container {
   max-width: fit-content;
